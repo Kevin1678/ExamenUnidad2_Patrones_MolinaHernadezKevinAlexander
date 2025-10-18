@@ -1,0 +1,14 @@
+C:\Users\kevin\source\repos\ExamenUnidad2\ExamenUnidad2\bin\Debug\ExamenUnidad2.exe.config
+C:\Users\kevin\source\repos\ExamenUnidad2\ExamenUnidad2\bin\Debug\ExamenUnidad2.exe
+C:\Users\kevin\source\repos\ExamenUnidad2\ExamenUnidad2\bin\Debug\ExamenUnidad2.pdb
+C:\Users\kevin\source\repos\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.exe
+C:\Users\kevin\source\repos\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.pdb
+C:\Users\LAPTOP HP\Desktop\ExamenUnidad2\ExamenUnidad2\bin\Debug\ExamenUnidad2.exe.config
+C:\Users\LAPTOP HP\Desktop\ExamenUnidad2\ExamenUnidad2\bin\Debug\ExamenUnidad2.exe
+C:\Users\LAPTOP HP\Desktop\ExamenUnidad2\ExamenUnidad2\bin\Debug\ExamenUnidad2.pdb
+C:\Users\LAPTOP HP\Desktop\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.csproj.AssemblyReference.cache
+C:\Users\LAPTOP HP\Desktop\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP HP\Desktop\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.exe
+C:\Users\LAPTOP HP\Desktop\ExamenUnidad2\ExamenUnidad2\obj\Debug\ExamenUnidad2.pdb
